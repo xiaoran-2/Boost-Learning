@@ -7,5 +7,5 @@
 
 
 参考：
-1. [The Boost C++ Libraries] (http://zh.higscore.de/cpp/boost)   
-2. [Boost 1.65.1 Library Documentation] (http://www.boost.org/doc/libs/1_65_1) 
+1. [The Boost C++ Libraries](http://zh.higscore.de/cpp/boost)   
+2. [Boost 1.65.1 Library Documentation](http://www.boost.org/doc/libs/1_65_1) 
